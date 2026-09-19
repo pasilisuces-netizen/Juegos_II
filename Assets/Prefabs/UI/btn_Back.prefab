@@ -100,6 +100,14 @@ PrefabInstance:
       propertyPath: m_Color.g
       value: 0.23137255
       objectReference: {fileID: 0}
+    - target: {fileID: 6998337498470595996, guid: 017da5422b9766a4fb56e369a9e24436, type: 3}
+      propertyPath: m_text
+      value: SALIR
+      objectReference: {fileID: 0}
+    - target: {fileID: 6998337498470595996, guid: 017da5422b9766a4fb56e369a9e24436, type: 3}
+      propertyPath: m_fontSize
+      value: 48
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
